@@ -1,42 +1,31 @@
-<?php 
-// login
-$link_line = "https://lin.ee/75sG7nH";
-$line_name = "@finni";
-
-$name_group_1 = "SA Casino";
-$name_group_2 = "WM Casino";
-$name_group_3 = "Sexy Gaming";
-$name_group_4 = "Dream Gaming";
-$name_group_5 = "Pretty Gaming";
-$name_group_6 = "AE Sexy Casino";
-$name_group_7 = "Allbet";
-$name_group_8 = "Evo Gaming";
-$name_group_9 = "BBIN Casino";
+<?php
+$name_web = "BETCOIN 718";
+$name_ = "Betcoin";
+$name_title = "betcoin718";
+$id_line = "@betcoin718";
 
 // target="_blank"
 $link_signIn = "#sign-in";
 $link_signUp = "#sign-up";
 // menu
-$link_home = "#home";
-$link_test_game = "#link_test_game";
+$link_menu1 = "?page=1";
+$link_menu2 = "?page=2";
+$link_menu3 = "?page=3";
+$link_menu4 = "?page=4";
+$link_menu5 = "?page=5";
+$link_menu6 = "?page=6";
 
-$link_img_star1 ="#link_img_star1";
-$link_img_star2 ="#link_img_star2";
-$link_img_star3 ="#link_img_star3";
-
-$link_group_1 = "#link_group_1";
-$link_group_2 = "#link_group_2";
-$link_group_3 = "#link_group_3";
-$link_group_4 = "#link_group_4";
-$link_group_5 = "#link_group_5";
-$link_group_6 = "#link_group_6";
-$link_group_7 = "#link_group_7";
-$link_group_8 = "#link_group_8";
-$link_group_9 = "#link_group_9";
-$link_phone_menu_1="#link_phone_menu_1";
-$link_phone_menu_2="#link_phone_menu_2";
-$link_phone_menu_3="#link_phone_menu_3";
-$link_phone_menu_4="#link_phone_menu_4";
-$link_phone_menu_5="#link_phone_menu_5";
-
+$link_menu_phone1 = "?page=1";
+$link_menu_phone2 = "?page=22";
+$link_menu_phone3 = "?page=3";
+$link_menu_phone4 = "?page=24";
+$link_menu_phone5 = "?page=25";
+// page2
+$link_page1 = "#page2_1";
+$link_page2 = "#page2_2";
+// page3
+$link_pro1 = "#link_pro1";
+$link_pro2 = "#link_pro2";
+$link_pro3 = "#link_pro3";
+$link_pro4 = "#link_pro4";
 //end target="_blank"
